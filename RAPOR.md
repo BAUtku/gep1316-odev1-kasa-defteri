@@ -126,11 +126,11 @@ Yapay zekâ ile çalışmak, düşünmeyi hızlandırdı ancak her öneriyi oldu
 
 ## 6. Öğrenci Yapay Zekâ Kullanım Beyan Formu
 
-- Kullanılan YZ aracı/araçları: Microsoft Copilot, ChatGPT benzeri yardımcı üretken aracı
+- Kullanılan YZ aracı/araçları: Microsoft Copilot
 - Kullanma amacı: Kod tasarımı, hata ayıklama, test planı ve belge hazırlama
 - Kontrol ve sorumluluk: Yapay zekâ tarafından üretilen içeriği gözden geçirdim, gerekli düzeltmeleri yaptım ve teslim ettiğim çalışmanın doğruluğundan ve akademik dürüstlüğünden sorumluyum.
-- Öğrencinin adı-soyadı: [Öğrenci Adı Soyadı]
-- Tarih ve İmza: [Tarih] / [İmza]
+- Öğrencinin adı-soyadı: Utku Acar
+- Tarih ve İmza: 11.11.2026 / Utku Acar
 
 ## 7. Atıf
 
