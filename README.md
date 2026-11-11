@@ -2,6 +2,8 @@
 
 Bu proje, küçük bir işletmenin günlük gelir ve gider kaydını tutan basit bir komut satırı uygulamasıdır. Kullanıcılar gelir ve gider ekleyebilir, mevcut bakiyeyi görebilir ve tüm kaydı `.csv` dosyasına aktarabilir.
 
+GitHub deposu: https://github.com/BAUtku/gep1316-odev1-kasa-defteri
+
 ## Özellikler
 
 - Gelir ve gider kaydı ekleme
@@ -35,6 +37,10 @@ cd kasa_defteri
 python3 -m unittest -q
 ```
 
+## Ekran görüntüsü
+
+![Kasa defteri uygulaması](screenshots/uygulama_ekrani.png)
+
 ## Örnek çıktı
 
 ```text
@@ -56,13 +62,4 @@ python3 -m unittest -q
 
 ## GitHub için hazırlanma
 
-Bu proje yerel olarak hazırdır; GitHub'a göndermeden önce şu adımlarla repo hazırlanabilir:
-
-```bash
-git init
-git add .
-git commit -m "İlk sürüm: kasa defteri uygulaması"
-git branch -M main
-```
-
-Ardından GitHub üzerine push edilebilir.
+Bu proje GitHub üzerinde yayınlanmıştır ve yerel repo hazırdır. İsterseniz aynı klasör içindeki dosyaları teslim için düzenleyebilirsiniz.
